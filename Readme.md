@@ -5,3 +5,4 @@
 - [Actividad 2.4](https://github.com/dwcs-code-2425/r26_Actividad2.4.git)
 - [Actividad 2.5-enunciado](https://github.com/dwcs-code-2425/r26_Actividad2.5--_FILES.git)
 - [Actividad 2.7-sol](https://github.com/dwcs-code-2425/r26_Actividad2.7-funciones-sol.git)
+- [Actividad 2.8-sol](https://github.com/dwcs-code-2425/r26_Actividad2.8-referencia)
