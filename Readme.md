@@ -10,3 +10,4 @@
 
 ## UD3
 - [Actividad 3.1-sol](https://github.com/dwcs-code-2425/r26_Actividad3.1-sol.git)
+- [Actividad 3.2-sol](https://github.com/dwcs-code-2425/r26_Actividad3.2-aula-sol.git)
