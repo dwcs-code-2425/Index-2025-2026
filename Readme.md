@@ -9,4 +9,4 @@
 - [Actividad 2.10-sol](https://github.com/dwcs-code-2425/r26_Actividad2.10_palindromo.git)
 
 ## UD3
--[Actividad 3.1-sol](https://github.com/dwcs-code-2425/r26_Actividad3.1-sol.git)
+- [Actividad 3.1-sol](https://github.com/dwcs-code-2425/r26_Actividad3.1-sol.git)
