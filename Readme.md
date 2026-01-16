@@ -15,6 +15,7 @@
 - [Actividad 3.4-sol](https://github.com/dwcs-code-2425/r26_Actividad3.4_sol.git)
 - [Actividad 3.5-sol](https://github.com/dwcs-code-2425/r26_actividad3.5_cookies-sol)
 - [Actividad 3.6-sol](https://github.com/dwcs-code-2425/r26_actividad3.6_refactoring_cesta.git)
+- [Actividad 3.7-sol Mongo](https://github.com/dwcs-code-2425/r26_Actividad3.7_Mongo.git)
 
 ## UD4
 - [Actividades 4.1 y 4.2](https://github.com/dwcs-code-2425/r26_Actividad4.1Y4.2.git)
