@@ -23,6 +23,7 @@
 - [Actividad 4.4-Abstract](https://github.com/dwcs-code-2425/r26_4.4_Biblioteca-Sol)
 - [Ejemplo interfaz Exportable](https://github.com/dwcs-code-2425/EjemploInterfaz_Exportable)
 - [Actividad 4.5-Interfaz+ Strategy](https://github.com/dwcs-code-2425/Actividad4.5-Interfaz-Strategy)
+- [Actividad 4.6-Traits](https://github.com/dwcs-code-2425/Actividad4.6-Trait-Logger.git)
 
 ## Pruebas 1ª Evaluación
 - [Segunda parte Prueba UD2 ](https://github.com/dwcs-code-2425/r26_PruebaUD2_sol_aula.git)
