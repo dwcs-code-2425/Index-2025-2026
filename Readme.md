@@ -28,6 +28,7 @@
 - [Actividad 4.8-autoload](https://github.com/dwcs-code-2425/r26_Actividad4.8_autoload_sol.git)
 - [Actividad 4.9-PrestamoService-sol](https://github.com/dwcs-code-2425/Actividad4.9-sol)
 - [Actividad 4.10-PHPUnit](https://github.com/dwcs-code-2425/Actividad4.10-aula-sol.git)
+- [Actividad 4.11-PHPUnit+repo](https://github.com/dwcs-code-2425/Actividad4.11-RepositoryTest-sol)
 
 ## Pruebas 1ª Evaluación
 - [Segunda parte Prueba UD2 ](https://github.com/dwcs-code-2425/r26_PruebaUD2_sol_aula.git)
