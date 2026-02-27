@@ -32,6 +32,7 @@
 - [Actividad 4.12-PHPUnit+mocks](https://github.com/dwcs-code-2425/r26_Actividad4.12-Mocks-sol)
 - [Proyecto Vacío Symfony](https://github.com/dwcs-code-2425/r26_my_first_symfony_app_base)
 - [Actividad 4.13-TableController](https://github.com/dwcs-code-2425/r26_Actividad4.13-TableController.git)
+- [ConsultasNotaController](https://github.com/dwcs-code-2425/r26_ConsultasNotaController.git)
   
 
 ## Pruebas 1ª Evaluación
