@@ -33,6 +33,7 @@
 - [Proyecto Vacío Symfony](https://github.com/dwcs-code-2425/r26_my_first_symfony_app_base)
 - [Actividad 4.13-TableController](https://github.com/dwcs-code-2425/r26_Actividad4.13-TableController.git)
 - [ConsultasNotaController](https://github.com/dwcs-code-2425/r26_ConsultasNotaController.git)
+- [Propuesta de solución Ejercicio para practicar para examen POO](https://github.com/dwcs-code-2425/r26_simulacro_prueba_poo_sol.git)
   
 
 ## Pruebas 1ª Evaluación
