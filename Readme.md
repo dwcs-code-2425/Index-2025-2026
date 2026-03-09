@@ -31,7 +31,7 @@
 - [Actividad 4.11-PHPUnit+repo](https://github.com/dwcs-code-2425/Actividad4.11-RepositoryTest-sol)
 - [Actividad 4.12-PHPUnit+mocks](https://github.com/dwcs-code-2425/r26_Actividad4.12-Mocks-sol)
 - [Proyecto Vacío Symfony 7.2](https://github.com/dwcs-code-2425/r26_my_first_symfony_app_base)
-- [Proyceto Vacío Symfony 7.4 con cambios ya realizados](https://github.com/dwcs-code-2425/r26_Symfony_7.4_empty_project.git)
+- [Proyecto Vacío Symfony 7.4 con cambios ya realizados](https://github.com/dwcs-code-2425/r26_Symfony_7.4_empty_project.git)
 - [Actividad 4.13-TableController](https://github.com/dwcs-code-2425/r26_Actividad4.13-TableController.git)
 - [ConsultasNotaController](https://github.com/dwcs-code-2425/r26_ConsultasNotaController.git)
 - [Actividad 4.15-comienzo](https://github.com/dwcs-code-2425/r26_Actividad4.15_busqueda_libros)
