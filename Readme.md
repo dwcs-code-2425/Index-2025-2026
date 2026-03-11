@@ -37,6 +37,7 @@
 - [Actividad 4.15-comienzo](https://github.com/dwcs-code-2425/r26_Actividad4.15_busqueda_libros)
 - [Actividad 4.15-sol](https://github.com/dwcs-code-2425/A4.15-sol-aula.git)
 - [Propuesta de solución Ejercicio para practicar para examen POO](https://github.com/dwcs-code-2425/r26_simulacro_prueba_poo_sol.git)
+- [Actividad 4.16-sol](https://github.com/dwcs-code-2425/r26_Actividad4.16-sol.git)
   
 
 ## Pruebas 1ª Evaluación
