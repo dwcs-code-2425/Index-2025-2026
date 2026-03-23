@@ -39,9 +39,14 @@
 - [Propuesta de solución Ejercicio para practicar para examen POO](https://github.com/dwcs-code-2425/r26_simulacro_prueba_poo_sol.git)
 - [Actividad 4.16-sol](https://github.com/dwcs-code-2425/r26_Actividad4.16-sol.git)
 - [Actividad 4.18-sol](https://github.com/dwcs-code-2425/r26_Actividad4.18-sol)
+- [Actividad 4.19-sol](https://github.com/dwcs-code-2425/r26_4.19_Autorizacion.git)
   
 
 ## Pruebas 1ª Evaluación
 - [Segunda parte Prueba UD2 ](https://github.com/dwcs-code-2425/r26_PruebaUD2_sol_aula.git)
 - [Segunda parte Prueba UD2- ausentes con causa justificada 21/11](https://github.com/dwcs-code-2425/r26_pruebaUD2_sol_ausentes_21_11.git)
 - [Prueba práctica UD3](https://github.com/dwcs-code-2425/r26_Prueba_UD3_sol)
+
+## Pruebas 2ª Evaluación
+- [Prueba UD4 POO](https://github.com/dwcs-code-2425/r26_PruebaUD4_poo_sol_aula)
+- [Prueba UD4 Symfony](https://github.com/dwcs-code-2425/r26_PurebaUD4_Symf_sol_aula.git)
