@@ -41,7 +41,8 @@
 - [Actividad 4.18-sol](https://github.com/dwcs-code-2425/r26_Actividad4.18-sol)
 - [Actividad 4.19-sol](https://github.com/dwcs-code-2425/r26_4.19_Autorizacion.git)
   
-
+## UD5
+- [Actividad 5.2-sol](https://github.com/dwcs-code-2425/r26_Actividad5.2_sol.git)
 ## Pruebas 1ª Evaluación
 - [Segunda parte Prueba UD2 ](https://github.com/dwcs-code-2425/r26_PruebaUD2_sol_aula.git)
 - [Segunda parte Prueba UD2- ausentes con causa justificada 21/11](https://github.com/dwcs-code-2425/r26_pruebaUD2_sol_ausentes_21_11.git)
