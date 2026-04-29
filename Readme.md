@@ -46,6 +46,8 @@
 - [Actividad 5.3-sol](https://github.com/dwcs-code-2425/r26_Actividad5.3_sol)
 - [Actividad 5.4-sol](https://github.com/dwcs-code-2425/r26_Actividad5.4_sol.git)
 - [Actividad 5.5-sol](https://github.com/dwcs-code-2425/r26_Actividad5.5_sol.git)
+- [Actividad 5.6-app-mvc-sol](https://github.com/dwcs-code-2425/r26_Actividad5.6-app-web-mvc.git)
+- [Actividad 5.6-api-rest](https://github.com/dwcs-code-2425/r26_Actividad5.6_api_rest)
 - [Actividad 5.7-sol](https://github.com/dwcs-code-2425/r26_Actividad5.7_sol.git)
 ## Pruebas 1ª Evaluación
 - [Segunda parte Prueba UD2 ](https://github.com/dwcs-code-2425/r26_PruebaUD2_sol_aula.git)
