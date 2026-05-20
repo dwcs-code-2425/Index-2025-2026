@@ -52,7 +52,9 @@
 - [Actividad 5.8-sol](https://github.com/dwcs-code-2425/r26_a5.8-sol.git)
 
 ## UD6
+- [Proyecto UD6](https://github.com/dwcs-code-2425/UD6_Proyecto_clase)
 - [Ejemplo uso Leaflet en App web MVC partiendo de la Actividad 5.8-sol](https://github.com/dwcs-code-2425/r26_App_web_MVC_Leaflet.git)
+
 ## Pruebas 1ª Evaluación
 - [Segunda parte Prueba UD2 ](https://github.com/dwcs-code-2425/r26_PruebaUD2_sol_aula.git)
 - [Segunda parte Prueba UD2- ausentes con causa justificada 21/11](https://github.com/dwcs-code-2425/r26_pruebaUD2_sol_ausentes_21_11.git)
