@@ -54,6 +54,7 @@
 ## UD6
 - [Proyecto UD6](https://github.com/dwcs-code-2425/UD6_Proyecto_clase)
 - [Ejemplo uso Leaflet en App web MVC partiendo de la Actividad 5.8-sol](https://github.com/dwcs-code-2425/r26_App_web_MVC_Leaflet.git)
+  
 
 ## Pruebas 1ª Evaluación
 - [Segunda parte Prueba UD2 ](https://github.com/dwcs-code-2425/r26_PruebaUD2_sol_aula.git)
@@ -68,3 +69,4 @@
 - [Prueba UD5 Api REST sol](https://github.com/dwcs-code-2425/r26_Prueba_UD5_api_rest_sol)
 - [Prueba UD5 sol App Web MVC](https://github.com/dwcs-code-2425/r26_Prueba_UD5_app_web_mvc_sol)
 - [Prueba UD6 sol](https://github.com/dwcs-code-2425/r26_Prueba_UD6_sol)
+- [Prueba UD6 sol mvc leaflet](https://github.com/dwcs-code-2425/r26_prueba_ud6_Mvc_Leaflet_sol.git)
